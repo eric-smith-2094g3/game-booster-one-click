@@ -36,3 +36,5 @@ python booster.py "C:\Games\Doom\Doom.exe" --args "+com_skipIntroVideo 1"
 ```
 
 To customize which services are stopped or which processes are suspended, open `booster.py` and tweak the lists at the top of the file. I avoided a external configuration file to keep this completely self-contained.
+
+<!-- last-checked: 2026-09-13 -->
